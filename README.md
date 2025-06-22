@@ -1,4 +1,4 @@
-Welcome to the Stock Market Simulator App!
+Welcome to the Virtual Stock Trading Platform!
 This application lets users virtually invest money in the stock market using real-time stock prices. Users can track their investments, monitor their balance, and manage their stock portfolio. 
 This README provides detailed information about the app's functionality, database structure, and API endpoints.
 
@@ -16,7 +16,7 @@ Table of Contents
 1. Flow Diagram Link: https://tinyurl.com/stock-simulator-flow-diagram
 
 2. Introduction
-The Stock Market Simulator App is designed to simulate stock market investments.
+The Virtual Stock Trading Platform is designed to simulate stock market investments.
 Users can register, receive an initial virtual money balance, and use it to buy and sell stocks based on real market prices. This is an excellent tool for learning about stock trading and investment strategies without financial risk.
 
 3. Features
